@@ -7,6 +7,13 @@ import { AppComponent } from './app.component';
 import { TopBarComponent } from './top-bar/top-bar.component';
 import { ProductListComponent } from './product-list/product-list.component';
 
+
+// Import statements for the components
+import { NavComponent } from './nav/nav.component';
+import { JumbotronComponent } from './jumbotron/jumbotron.component';
+import { ContentComponent } from './content/content.component';
+import { FooterComponent } from './footer/footer.component';
+
 @NgModule({
   imports: [
     BrowserModule,
