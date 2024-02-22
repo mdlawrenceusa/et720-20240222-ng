@@ -25,7 +25,11 @@ import { FooterComponent } from './footer/footer.component';
   declarations: [
     AppComponent,
     TopBarComponent,
-    ProductListComponent
+    ProductListComponent,
+    NavComponent,
+    JumbotronComponent,
+    ContentComponent,
+    FooterComponent
   ],
   bootstrap: [
     AppComponent
